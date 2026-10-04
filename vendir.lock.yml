@@ -2,10 +2,10 @@ apiVersion: vendir.k14s.io/v1alpha1
 directories:
 - contents:
   - git:
-      commitTitle: 'Merge pull request #503 from mattpocock/changeset-release/main...'
-      sha: 2ffb184ffbb752faa664c0b204f3c9241b1428e9
+      commitTitle: 'Merge pull request #1160 from mattpocock/changeset-release/main...'
+      sha: 24fe0ef7737efae15c87225755e9f6f5965e4888
       tags:
-      - v1.2.0
+      - v1.3.1
     path: .
   path: skills
 kind: LockConfig
